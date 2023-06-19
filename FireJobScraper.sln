@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireJobScraper", "FireJobScraper.csproj", "{EE06B5F7-A762-45AE-B966-B628BF7081CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE06B5F7-A762-45AE-B966-B628BF7081CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE06B5F7-A762-45AE-B966-B628BF7081CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE06B5F7-A762-45AE-B966-B628BF7081CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE06B5F7-A762-45AE-B966-B628BF7081CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E666E27-817B-489E-81B3-2AF343A0A3DB}
+	EndGlobalSection
+EndGlobal
